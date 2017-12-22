@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aayush/AndroidStudioProjects/ChatApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/667ed933c3d23483c0f136796df0b54a/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f2e12783310a5fbba28c7e387aaaf668/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

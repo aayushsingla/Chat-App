@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aayush/AndroidStudioProjects/ChatApp/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/aayush/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/667ed933c3d23483c0f136796df0b54a/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
